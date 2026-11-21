@@ -1,4 +1,4 @@
-# [Your Project Name Here]
+# My Project [Your Project Name Here]
 
 > [One sentence: what does it do and for whom?]
 
